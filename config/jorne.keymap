@@ -52,14 +52,5 @@
                                                      &trans        &none         &trans        &trans        &none         &trans
             >;
         };
-
-        layer_4 {
-            bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-                                &trans  &trans  &trans  &trans  &trans  &trans
-            >;
-        };
     };
 };
